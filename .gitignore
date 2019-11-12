@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/build/classes/java/main/
+/Simple Search Engine/task/build/classes/java/test/
